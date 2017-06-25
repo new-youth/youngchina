@@ -2,7 +2,9 @@
 
 [youngchina.club](youngchina.club)
 
-youngchina主页正在建设中
+少年中国 主页正在建设中
+
+</br>
 
 [mit.youngchina.club](mit.youngchina.club)
 
